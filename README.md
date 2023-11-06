@@ -1,7 +1,7 @@
 # Python_Based_Encryption
 Python Encryption Program (Named 'PeP')
 
-'''py
+'''python3
 def Encrypt():
     try:
         seed = int(input('Chose seed (leave blank for random) : '))
