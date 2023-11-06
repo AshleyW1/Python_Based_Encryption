@@ -1,1 +1,10 @@
-import random
+python 3
+https://www.python.org/downloads/
+
+pip
+https://pypi.org/project/pip/
+
+random
+https://pypi.org/project/random2/#description
+or just
+pip install random
