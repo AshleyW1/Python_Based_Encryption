@@ -1,7 +1,7 @@
 # Python_Based_Encryption
 Python Encryption Program (Named 'PeP')
 
-'''python3
+
 def Encrypt():
     try:
         seed = int(input('Chose seed (leave blank for random) : '))
@@ -26,4 +26,3 @@ def Encrypt():
     Final = ''.join(Output)
     print(f'\n\nFinal Outcome: {Final}') 
     pass
-'''
