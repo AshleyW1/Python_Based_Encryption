@@ -1,2 +1,2 @@
 # Python_Based_Encryption
-Multiple Stage Python Encryption Program (Named 'MSE')
+Python Encryption Program (Named 'PeP')
