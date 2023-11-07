@@ -92,7 +92,7 @@ This was then followed with the method used to form the final string, i decided 
     ...
 ```
 This method is the exact same as the method used to encrypt the message, the only differeces are, here we ask the user what the seed is, to see if they have permission to decrypt the message, also during the stage where the seed manipulates the unicode, we take away the seed rather than add it.
-```
+```py
     ...
     Final = ''.join(Output)
     print(f'\n\nFinal Outcome: {Final}')
